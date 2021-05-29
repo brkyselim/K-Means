@@ -11,6 +11,6 @@ The data set contains 5 columns, separated by commas. The first column is the cu
 #### Results:
 
 
-![Dataset Graph](https://github.com/brkyselim/K-Means/blob/master/Imgs/Dataset.jpg)
+![Dataset Graph](https://github.com/brkyselim/K-Means/tree/main/ImgsDataset.jpg)
 
-![K-Means](https://github.com/brkyselim/K-Means/blob/master/Imgs/kmeans.jpg)
+![K-Means](https://github.com/brkyselim/K-Means/tree/main/Imgs/kmeans.jpg)
